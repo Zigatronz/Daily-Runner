@@ -8,8 +8,8 @@
  2. Choose your **executable file** to run only once per day
  3. It will run the executable file **automatically** after made your choice at step 2
  4. If you cancel step 2, DailyRunner.exe will close
- 5. You also can experiment this with selecting **TestTargetProgram.exe** at step 2
-# How to change executable file
+ 5. You also can experiment with this by selecting **TestTargetProgram.exe** at step 2
+# How to change the executable file
  ## Option 1
   1. Open **DailyRunner.ini** using notepad
   2. Change the **'TargetProgram'** key's value
